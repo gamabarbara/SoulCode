@@ -1,0 +1,147 @@
+.Menu{
+    background-color: #A06350;
+    color: white;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 50px;
+    text-decoration: none;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.botao1, .botao2, .botao3{
+    margin-top: 10px;
+    position:relative;
+    line-height: 40px;
+} 
+
+.botao1:hover, .botao2:hover, .botao3:hover{
+    background-color: #D4B6AC;
+    border-radius: 5px;
+}
+
+.image{
+    margin: 50px;
+    height: 500px;
+    width: 1000px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 10px;
+
+}
+
+.historia{
+    background-color: #A06350;
+    color: white;
+    text-align: center;
+    height: 35px;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin-top: 5px;
+}
+
+body{
+    background-color: #D4B6AC;
+}
+
+.logo{
+    margin-left: 50px;
+    border: 2px solid #A06350;
+    padding: 10px;
+}  
+
+#txt{
+    
+    text-align: justify;
+    width: 350px;
+    left: 1050px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    margin-top: 30px;
+    font-size: large;
+    color: white;
+    border: 2px groove #A06350;
+    padding: 10px;
+    display: inline-block;
+    align-items: center;
+    margin-left: 600px;
+}
+
+.container{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.produtos{
+    background-color: #A06350;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin-bottom: 80px;
+}
+
+.image1{
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
+    word-spacing: 70px;
+}
+
+
+
+.descricaoVideo{
+    background-color: #A06350;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+
+}
+
+.video{
+    margin-left: 110px;
+    display: flex;
+}
+
+.paragrafo{
+    display: inline-block;
+        text-align: justify;
+    width: 350px;
+    left: 1050px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    margin-top: 30px;
+    font-size: large;
+    color: white;
+    border: 2px groove #A06350;
+    padding: 10px;
+    display: inline-block;
+    align-items: center;
+    margin-right: 400px;
+}
+
+.footer{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.rodape {
+    background-color: #A06350;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+}
+
+.voltarTopo{
+    margin-left: 1200px;
+}
